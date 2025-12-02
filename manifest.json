@@ -1,7 +1,7 @@
 {
-  "name": "FinTrack – Financial Tracker",
-  "short_name": "FinTrack",
-  "description": "Personal Financial Tracker",
+  "name": "Debt Tracker",
+  "short_name": "Debt Tracker",
+  "description": "Personal Debt Tracker",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
